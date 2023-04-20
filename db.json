@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "user": "kash",
+      "email": "k@gmail.com1",
+      "pass": "12345",
+      "id": 1
+    },
+    {
+      "user": "kusha",
+      "email": "k@gmail.com",
+      "pass": "12345",
+      "id": 2
+    }
+  ],
+  "hotels": [
+    {
+      "category": "Family",
+      "image_url": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "type_of_room": "Ac",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "2",
+      "cost": "2000",
+      "booked": false,
+      "id": 1
+    },
+    {
+      "category": "Family",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-&-computer-glasses:-blue-black-full-rim-rectangle-lenskart-air-flex-la-e13780-c1_lenskart-air-la-e13780-c1-eyeglasses_g_9954_123_02_2022.jpg",
+      "type_of_room": "Non Ac",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "2",
+      "cost": "4000",
+      "booked": false,
+      "id": 2
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C176%2C3008%2C1654&wid=4000&hei=2200&scl=0.752",
+      "type_of_room": "Ac",
+      "bed_type": "Double",
+      "no_of_persons": "4",
+      "capacity": "5",
+      "cost": "6000",
+      "booked": false,
+      "id": 3
+    }
+  ]
+}
